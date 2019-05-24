@@ -1,2 +1,1 @@
-<b>CoderByte 
-Challenges
+<b>CoderByte Challenges
