@@ -25,5 +25,4 @@ class Main {
     Scanner s = new Scanner(System.in);
     System.out.print(CheckNums(s.nextLine())); 
   }   
-  
-}
+  }
